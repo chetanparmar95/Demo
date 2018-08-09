@@ -2,11 +2,7 @@
   "data": [
     {
       product_id: 1,
-      image: "https://img3.craftsvilla.com/image/upload/f_autot_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864442-Craftsvilla_1.jpg",
-      image_list: [
-        "https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864442-Craftsvilla_1.jpg",
-        "https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864450-Craftsvilla_2.jpg"
-      ],
+     
       product_title: "Craftsvilla Beige Color Jacquard Graphic Printed Designer Semi-stitched Lehenga Choli",
       sold_by: "CRAFTSVILLA",
       rating: 5,
