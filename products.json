@@ -12,7 +12,7 @@
   		"save": 20
   	},
   	{
-  		"product_id": 1,
+  		"product_id": 2,
   		"image": "https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF85082998450-1527864441-Craftsvilla_1.jpg",
   		"image_list" : ["https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF85082998450-1527864441-Craftsvilla_1.jpg",
   						"https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF85082998450-1527864449-Craftsvilla_2.jpg"],
@@ -23,7 +23,7 @@
   		"save": 40
   	},
   	{
-  		"product_id": 1,
+  		"product_id": 3,
   		"image": "https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864442-Craftsvilla_1.jpg",
   		"image_list" : ["https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864442-Craftsvilla_1.jpg",
   						"https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864450-Craftsvilla_2.jpg"],
@@ -34,7 +34,7 @@
   		"save": 10
   	},
   	{
-  		"product_id": 1,
+  		"product_id": 4,
   		"image": "https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864442-Craftsvilla_1.jpg",
   		"image_list" : ["https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864442-Craftsvilla_1.jpg",
   						"https://img3.craftsvilla.com/image/upload/f_auto,t_166x166_2/C/V/CV-36325-MCRAF62519377460-1527864450-Craftsvilla_2.jpg"],
